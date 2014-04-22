@@ -1,7 +1,7 @@
 {
   "name": "utils",
   "version": "0.0.0",
-  "main": "index.js",
+  "main": "lib/index.js",
   "style": "styles/index.less",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
